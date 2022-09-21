@@ -1,5 +1,5 @@
 
-VAULT_KEY = 'feedback-form-state';
+const VAULT_KEY = 'feedback-form-state';
 
 const throttle = require('lodash.throttle');
 
